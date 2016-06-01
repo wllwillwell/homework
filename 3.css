@@ -1,0 +1,31 @@
+h1{
+  font-family:sans-serif;
+  color:red;
+  }
+h2{
+  font-family: "微软雅黑";
+  color: hotpink;
+  }
+p{
+  font-family: "微软雅黑";
+  color: yellow;
+}
+ol{
+  font-family: serif;
+  color: salmon;
+  }
+blockquote{
+    font-family: arial;
+    color: palegreen;
+  }
+ul{
+  font-family: sans-serif;
+  color: green;
+}
+
+
+
+
+
+
+
