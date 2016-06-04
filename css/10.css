@@ -1,0 +1,50 @@
+#header{
+  text-align: center;
+  background-image: url(../img/3.jpg);
+  font-family: "微软雅黑";
+  font-size: 40px;
+  border-width: thin;
+  border-style: solid;
+  border-color: #007e7e;
+  padding-left: 30px;
+  padding-right:40px;
+  margin: 30px;
+  color: plum;
+  
+}
+#caomei{
+  text-align: center;
+  background-image: url(../img/22.jpg);
+  font-family: arial;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 50px;
+  color: pink;
+}
+#pingguo{text-align: center;
+  background-image: url(../img/22.jpg);
+  font-family: arial;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 50px;
+  color: darkred;
+}
+#bohe{
+  text-align: center;
+  background-image: url(../img/22.jpg);
+  font-family: arial;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 50px;
+  color: orange;
+}
+#footer{
+  text-align:center;
+  font-family: "arial, helvetica, sans-serif";
+  color: black;
+  font-size: 20px;
+  color: silver;
+}

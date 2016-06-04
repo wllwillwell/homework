@@ -1,0 +1,17 @@
+body{
+   font-family: verdana,geneva,arial,sans-serif;
+   font-size: samll;
+   font-weight: bold;
+   font-style: italic;
+}
+
+h1{
+  font-family:sans-serif;
+  font-size: 220%;
+  font-weight: normal;
+  color: plum;
+}
+h2{
+  font-size: 130%;
+  font-weight: 100;
+}
