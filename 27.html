@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-hans">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>css</title>
+    <style>
+      .cd {
+        font-style: italic;
+      }
+      
+      .artist {
+        font-weight: bold;
+      }
+      i:first-child{
+        color: darkred;
+      }
+      p:first-letter{
+        color: red;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>this is a test</h1>
+    <ul>
+      <li><span class="cd">buddha bar </span>, <span class="artist">claude challe<</span>/li>
+        <li>when it falls, zero 7</li>
+        <li>rarth 7,L.T.J.bukem</li>
+        <li>Le roi est mort,vive le roi!,enigma</li>
+        <li>music for airports ,brian eno</li>
+    </ul>
+    <a href="http://www.baidu.com">baidu</a>
+    <p>
+      <i class="first-child">first</i>  <!-- 这个是伪类用于向某些选择器添加特殊的效果-->
+      <i>second</i><!--first-child 添加样式到第一个子元素-->
+    </p>
+    <p>i am stephen lee.</p><!-- 这是正常的样式-->
+    <p><span class="first-letter">I</span>am stephen lee.</p><!-- first-letterd 的意思是添加样式到第一个字母-->
+  </body>
+
+</html>

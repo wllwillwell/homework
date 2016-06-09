@@ -13,6 +13,7 @@
   
 }
 #caomei{
+  line-height: normal;
   text-align: center;
   background-image: url(../img/22.jpg);
   font-family: arial;
@@ -22,7 +23,9 @@
   margin: 50px;
   color: pink;
 }
-#pingguo{text-align: center;
+#pingguo{
+  line-height: normal;
+  text-align: center;
   background-image: url(../img/22.jpg);
   font-family: arial;
   font-size: 20px;
@@ -32,6 +35,7 @@
   color: darkred;
 }
 #bohe{
+  line-height: normal;
   text-align: center;
   background-image: url(../img/22.jpg);
   font-family: arial;
@@ -42,6 +46,7 @@
   color: orange;
 }
 #footer{
+  line-height: normal;
   text-align:center;
   font-family: "arial, helvetica, sans-serif";
   color: black;
