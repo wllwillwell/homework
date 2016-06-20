@@ -1,0 +1,91 @@
+
+#allcontent{
+     width: 800px;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     background-color: #675C47;
+     margin-left: auto;
+     margin-right: auto;
+     
+  }
+
+#header {
+        background:              url(../img/header-2.gif) repeat-x;
+        margin:                                         10px;
+        height:                                        108px;
+}
+#header img{
+        height: 100%;
+}
+ 
+#main   {
+       background:                                  #87CEEB;
+       font-size:                                       105%;
+       padding:                                         15px;
+       margin:                            0px 330px 10px 10px;
+       width: 420px;
+       float: top;
+       
+   
+}
+
+#sidebar {
+         background:#efe5d0 url(../img/bag-2.gif) bottom right;
+         font-size:                                     105%;
+         padding: 15px;
+         margin:                          0px 10px 10px 10px;
+         position: absolute;
+         top: 128px;
+         right: 0px;
+         width: 280px;
+        
+
+} 
+
+                                              
+}
+#sidebar p{
+     margin:                                            0px;
+     
+}
+
+#sidebar p img{
+          width: 280px;
+          
+  }
+  
+#footer {
+       background-color:                             #8B0000 
+       color:                                        #FFA500;
+       text-align:                                    center;
+       padding:                                         15px;
+       margin:                                          10px;
+       font-size:                                        90%;
+       clear:                                          left;
+ }
+ 
+ h1 {
+    font-size:                                          120%;
+    color:                                           #954B4B;
+ }
+ 
+ .slogan {
+         color:                                      #954b4b;
+ }
+ 
+ .beanheading {
+         text-align:                                 center ;
+         line-height:                                  1.8em;
+ }  
+  
+ a:link {
+        color:                                       #b76666;
+        text-decoration:                                none;
+        border-bottom:                   thin dotted #b76666;
+ }
+ 
+ a:visited {
+        color:                                       #675c47;
+        text-decoration:                                none;
+        border-bottom:                   thin dotted #675c47;   
+ }

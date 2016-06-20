@@ -1,0 +1,7 @@
+div#tablecontainer{
+  display: table;
+}
+
+div#tablerow{
+  display: table-row;
+}
